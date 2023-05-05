@@ -1,0 +1,27 @@
+{
+    "cSpell.words": [
+        "gpio",
+        "PICO",
+        "picoprobe",
+        "RASPBERRYPI"
+    ],
+
+    "cmake.sourceDirectory": "${workspaceFolder}",
+
+    "cmake.statusbar.advanced": {
+        "debug": {
+            "visibility": "hidden"
+        },
+        "launch": {
+            "visibility": "hidden"
+        },
+        "build": {
+            "visibility": "default"
+        },
+        "buildTarget": {
+            "visibility": "default"
+        }
+    },
+    "cmake.buildBeforeRun": true,
+    "cmake.configureOnOpen": true
+}
