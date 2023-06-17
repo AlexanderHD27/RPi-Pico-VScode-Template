@@ -6,6 +6,7 @@ docs/getting-started-with-pico.pdf
 docs/pico-datasheet.pdf
 docs/raspberry-pi-pico-c-sdk.pdf
 docs/rp2040-datasheet.pdf
+docs/hardware-design-with-rp2040.pdf
 
 *.env*
 *.log

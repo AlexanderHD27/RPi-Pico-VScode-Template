@@ -25,8 +25,8 @@ int main() {
 
     while (true) {
         pio_sm_put_blocking(pio, sm, 1);
-        sleep_ms(500);
+        sleep_ms(100);
         pio_sm_put_blocking(pio, sm, 0);
-        sleep_ms(500);
+        sleep_ms(100);
     }
 }

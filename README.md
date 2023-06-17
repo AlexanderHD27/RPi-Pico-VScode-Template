@@ -6,12 +6,12 @@ with a picoprobe as an swd programmer/debugger in vscode
 To get start simply run
 
 ```bash
-scripts/pico_setup.sh
+bash -c scripts/setup.sh
 ```
 
 If you need the docs local then run
 ```bash
-scripts/download_docs.sh
+bash -c scripts/download_docs.sh
 ```
 
 ## Development

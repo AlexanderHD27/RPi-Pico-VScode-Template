@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+
 openocd \
     -f interface/cmsis-dap.cfg \
     -c "adapter speed 5000" \
